@@ -2,6 +2,7 @@
 *.out
 *.cmp
 *.hack
+*.vm
 
 03/b
 
