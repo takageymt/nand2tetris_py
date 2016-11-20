@@ -20,6 +20,8 @@
 09/Square
 09/*/*.vm
 09/Jack\ OS\ API.pdf
+09/*
+!09/Pong
 
 10/ArrayTest
 10/ExpressionlessSquare
